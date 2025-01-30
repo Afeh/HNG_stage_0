@@ -1,7 +1,7 @@
 # HNG_stage_0
 An API to Retrieve Basic Infomation
 
-## Setup insttuctions
+## Setup instructions
 1. Clone the repo
    ```bash
    git clone https://github.com/Afeh/HNG_stage_0
